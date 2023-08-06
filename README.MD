@@ -18,7 +18,7 @@ Helm:
 
 
 ### Infrastructure provisioning
-Please check your AWS Region and Access keys in EKS/variables.tf
+Please check your AWS Region and Access keys in Wordpress/providers.tf
 1. Open terminal
 
 2. Go to EKS folder
